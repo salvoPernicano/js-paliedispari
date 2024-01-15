@@ -1,4 +1,4 @@
-let word = prompt("write palindromous word");
+let word = prompt("write palindromic word");
 console.log(word);
 let arrayWord = Array.from(word);
 
