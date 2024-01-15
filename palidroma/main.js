@@ -8,9 +8,9 @@ function reverse(){
         newWord += arrayWord[i]
     }
     if (word === newWord){
-        alert("the word is palindromous!")
+        alert("the word is palindromic!")
     } else {
-        alert("retry, the word is not palindromous!")
+        alert("retry, the word is not palindromic!")
     }
 }
 
