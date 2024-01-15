@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    padding: 2em;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+}
+
+button{
+    padding: 20px 30px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin: 2em;
+    border: 2px solid rgb(21, 40, 214);
+    border-radius: 30px;
+    background-color: rgb(14, 159, 196);
+    color: white;
+    cursor: pointer;
+}
